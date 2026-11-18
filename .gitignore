@@ -1,0 +1,37 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Derlenmis / buyuk ikili dosyalar ve paketlenmis dagitim
+LiberVia-Win64/
+tools/
+*.exe
+*.dll
+*.sys
+*.apk
+*.zip
+*.tar.gz
+*.jks
+*.keystore
+libervia-win64.zip
+
+# Kimlik bilgisi iceren node yapilandirmalari
+node_*.json
+nodes.txt
+nodes.b64
+sub_nodes.txt
+parsed_outbounds.json
+
+# Android derleme ciktilari
+android/.gradle/
+android/.kotlin/
+android/.aistudio/
+android/build/
+android/app/build/
+android/local.properties
+android/debug.keystore

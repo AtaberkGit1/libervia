@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LiberVia</string>
+    <string name="header_title">LIBERVIA</string>
+    <string name="status_idle">IDLE</string>
+    <string name="status_active">ACTIVE</string>
+    <string name="btn_engage">ENGAGE</string>
+    <string name="btn_disengage">DISENGAGE</string>
+    <string name="tile_label">LiberVia</string>
+    <string name="notif_channel_name">LiberVia VPN</string>
+    <string name="notif_title">LiberVia Active</string>
+    <string name="notif_text">DPI bypass tunnel running</string>
+    <string name="notif_action_disengage">Disengage</string>
+    <string name="cd_toggle_vpn">Toggle LiberVia VPN protection</string>
+</resources>

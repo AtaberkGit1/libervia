@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.LiberVia" parent="android:Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowBackground">@color/amoled_black</item>
+        <item name="android:colorBackground">@color/amoled_black</item>
+        <item name="android:statusBarColor">@color/amoled_black</item>
+        <item name="android:navigationBarColor">@color/amoled_black</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:textColorPrimary">@color/pure_white</item>
+        <item name="android:textColorSecondary">@color/muted_gray</item>
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+</resources>

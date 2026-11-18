@@ -1,0 +1,6 @@
+{
+  "name": "LiberVia Win64",
+  "description": "Ultra-lightweight single-button Windows kernel DPI bypass (C11 + Win32 + WinDivert).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

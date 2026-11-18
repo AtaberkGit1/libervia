@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="amoled_black">#FF000000</color>
+    <color name="pure_white">#FFFFFFFF</color>
+    <color name="electric_cyan">#FF00E5FF</color>
+    <color name="cyan_tint_bg">#FF001418</color>
+    <color name="muted_gray">#FF555555</color>
+    <color name="border_gray">#FF333333</color>
+</resources>
