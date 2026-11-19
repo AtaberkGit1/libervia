@@ -23,5 +23,5 @@ cd android
 
 ## Notlar
 
-- `tools/`, `LiberVia-Win64/` ve büyük ikili dosyalar (`.exe`, `.zip`, `.apk`) depoya dahil edilmez.
+- `tools/`, `LiberVia-Win64/` ve paketlenmiş dağıtım dosyaları (`.zip`, `.apk`) depoya dahil edilmez; Windows çalışma zamanı ikilileri (`LiberVia.exe`, `WinDivert.dll`, `WinDivert64.sys`) depoda bulunur.
 - `node_*.json`, `nodes.txt` gibi kimlik bilgisi içeren yapılandırmalar `.gitignore` ile hariç tutulur; kendi `node_0.json` dosyanızı `.env.example` benzeri bir şablon üzerinden oluşturun.

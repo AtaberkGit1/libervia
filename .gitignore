@@ -20,6 +20,11 @@ tools/
 *.keystore
 libervia-win64.zip
 
+# Windows calisma zamani ikilileri depoya dahil edilir
+!LiberVia.exe
+!WinDivert.dll
+!WinDivert64.sys
+
 # Kimlik bilgisi iceren node yapilandirmalari
 node_*.json
 nodes.txt
